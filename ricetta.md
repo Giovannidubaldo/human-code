@@ -4,7 +4,7 @@ PROBLEMA : Preparare le lasagne alla bolognese
     3 - Iniziamo la ricetta; 
 2.b - : Andiamo a fare la spesa;
 4 - Accendiamo i fornelli;
-5.a - ? abbiamo il ragù pronto;
+5.a - ? non abbiamo il ragù pronto;
    6 - prepariamo il ragù;
    6.1 - Prendiamo la pentola;
    6.2 - Cucinare la carne;
